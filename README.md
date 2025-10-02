@@ -84,7 +84,7 @@ Virtual painting app where **your fingers act as brushes**.
 
 ### 📫 Connect with Me
 
-[Resume](https://drive.google.com/file/d/1qhygPtuNn8Jhy5UrA2nm9gb2YzOhxLzi/view?usp=sharing)| [LinkedIn](https://www.linkedin.com/in/s-r-harini-465808249/) | [Email](mailto:helloharini08@gmail.com) 
+[Resume](https://drive.google.com/file/d/1qhygPtuNn8Jhy5UrA2nm9gb2YzOhxLzi/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/s-r-harini-465808249/) | [Email](mailto:helloharini08@gmail.com) 
 
 
 ⭐ **More AI, ML, and Chatbot projects coming soon!**
